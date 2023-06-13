@@ -1,0 +1,41 @@
+.navbar{
+    width: 100%;
+}
+.navbar-brand img {
+    width: 100px; /* Ajusta el valor según sea necesario */
+    height: auto; /* Esto mantendrá la proporción de la imagen */
+  }
+
+  .rounded-circle {
+    width: 35px;
+    height: 35px;
+    object-fit: cover;
+  }
+
+.input-group-text:hover {
+    background-color: #a0caf5;
+    cursor: pointer;
+  }
+.input-group-text{
+    border-radius: 30px;
+}
+.icon-large {
+  font-size: 25px; /* Ajusta el tamaño según tus necesidades */
+}
+.icon-black {
+  color: black; /* Cambia el color según tus necesidades */
+}
+
+.form-control{
+    border-radius: 30px;
+}
+
+.d-flex{
+    width: 350px;
+}
+.GAA{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-left: 19%;
+}

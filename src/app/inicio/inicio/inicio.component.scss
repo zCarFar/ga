@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:wght@200&family=Wix+Madefor+Text&display=swap');
+        .pedidos {
+            cursor: pointer;
+            background-color: white;
+            transition: background-color 0.3s, color 0.3s;
+        }
+        .whatsapp{
+            cursor: pointer;
+            background-color: white;
+            transition: background-color 0.3s, color 0.3s;
+        }
+        .facebook{
+            cursor: pointer;
+            background-color: white;
+            transition: background-color 0.3s, color 0.3s;  
+        }
+        .instagram{
+            cursor: pointer;
+            background-color: white;
+            transition: background-color 0.3s, color 0.3s;  
+        }
+        .gmail{
+            cursor: pointer;
+            background-color: white;
+            transition: background-color 0.3s, color 0.3s;  
+        }
+        .pedidos:hover {
+            background-color: #0e7bda;
+            color: white;
+        }
+        .whatsapp:hover {
+            background-color: rgb(32, 92, 84);
+            color: white;
+        }
+        .facebook:hover {
+            background-color: rgb(59, 89, 152);
+            color: white;
+        }
+        .instagram:hover {
+            background: linear-gradient(#8a1ae6,#f7b167);
+            color: white;
+        }
+        .gmail:hover {
+            background-color: rgb(219, 74, 57);
+            color: white;
+        }
+        .initial-blue {
+            color: #0e7bda;
+        }
+        .initial-green {
+            color:rgb(32, 92, 84);
+        }
+        .initial-pink {
+            color:rgb(221, 42, 123);
+        }
+        .initial-red {
+            color:rgb(219, 74, 57);
+        }
+        .pedidos:hover i {
+            color: white;
+        }
+        .whatsapp:hover i {
+            color: white;
+        }
+        .facebook:hover i {
+            color: white;
+        }
+        .instagram:hover i {
+            color: white;
+        }
+        .gmail:hover i {
+            color: white;
+        }
+        .pedidos:hover span {
+            color: white;
+        }
+        .whatsapp:hover span {
+            color: white;
+        }
+        .facebook:hover span {
+            color: white;
+        }
+        .instagram:hover span {
+            color: white;
+        }
+        .gmail:hover span {
+            color: white;
+        }
+        .textbac{
+            font-family: 'Wix Madefor Text', sans-serif;
+        }
+       

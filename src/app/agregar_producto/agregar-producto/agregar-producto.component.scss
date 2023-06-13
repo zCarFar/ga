@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:wght@200&family=Wix+Madefor+Text&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Space+Grotesk:wght@300&family=Space+Mono&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Noto+Sans&family=Poppins:wght@300&family=Raleway:wght@300&family=Urbanist:wght@200&family=Wix+Madefor+Text:wght@500&display=swap');
+
+        .custom-div {
+            cursor: pointer;
+            height: 140px;
+            background-color: rgba(221, 247, 248, 0.719);
+        }
+
+        .custom-div:hover {
+            background-color: #5486f37c;
+            color: white;
+        }
+
+        .colorb {
+            border-color: rgb(155, 210, 212);
+        }
+
+        .custom-btn {
+            background-color: white;
+            color: #007bff;
+            transition: background-color 0.3s, color 0.3s;
+        }
+
+        .custom-btn:hover {
+            background-color: #007bff;
+            color: white;
+        }
+
+        .botarrb-btn {
+            background-color: #007bff;
+            color: white;
+            transition: background-color 0.3s, color 0.3s;
+        }
+
+        .botarrb-btn:hover {
+            background-color: rgb(59, 89, 152);
+            color: white;
+        }
+
+        .textbac {
+            font-family: 'Wix Madefor Text', sans-serif;
+        }
+
+        .text-sepa {
+            font-family: 'Montserrat', sans-serif;
+            color: #4a4a4ea8;
+        }
+
+        .pointr {
+            cursor: pointer;
+        }
+
+        .input-linea {
+            border: none;
+            border-bottom: 2px solid #144e8bbb;
+            border-radius: 0;
+            box-shadow: none;
+            padding: 0;
+            height: auto;
+            background: none;
+        }
+
+        .input-no-fondo {
+            background-color: transparent !important;
+            font-size: 25px;
+            font-family: 'Poppins', sans-serif;
+        }
+
+
+        .input-linea:focus {
+            box-shadow: none;
+        }
+
+        .colorb:focus {
+            box-shadow: none;
+        }

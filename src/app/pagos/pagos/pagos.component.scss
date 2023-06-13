@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&family=Urbanist:wght@200&family=Wix+Madefor+Text&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:wght@200&family=Wix+Madefor+Text&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+    .table-hover tbody tr:hover {
+        background-color: #6dd1ec4f;
+        color: white;
+        cursor: pointer;
+    }
+
+    .custom-btn {
+        background-color: white;
+        color: #007bff;
+        transition: background-color 0.3s, color 0.3s;
+        cursor: pointer;
+    }
+
+    .custom-btn:hover {
+        background-color: #007bff;
+        color: white;
+    }
+
+    .lect-fond:hover {
+        background-color: rgb(201, 235, 248);
+        cursor: pointer;
+    }
+
+    .colorb {
+        border-color: rgb(155, 210, 212);
+    }
+    .circle {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        background-color: white;
+        color: #007bff;
+        cursor: pointer;
+    }
+
+    .circle:hover {
+        background-color: #007bff;
+        color: white;
+    }
+    .circle-container {
+        display: flex;
+        align-items: center;
+    }
+    .estad{
+       cursor: pointer; 
+       background-color: rgba(36, 139, 91, 0.26);
+    }
+    .estado-txt{
+        font-family: 'Raleway', sans-serif;
+        font-size: 13px;
+    }
+    .textbac{
+        font-family: 'Wix Madefor Text', sans-serif;
+    }
+    .texttab{
+        font-family: 'Open Sans', sans-serif;
+    }
+    .textp1{
+        font-family: 'Noto Sans', sans-serif;
+    }
+    .txtp1{
+        font-family: 'Wix Madefor Text', sans-serif;
+        font-weight: bold; 
+    }
